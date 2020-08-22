@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 42Seoul에서 공부 중 (`20.02` ~ )
 - 1일 1알고리즘 & 커밋 (`20.07.31` ~ )
 - Typescript, Node.js, React, Express에 관심을 갖고 있습니다
