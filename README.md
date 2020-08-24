@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 42Seoul에서 공부 중 (`2020.02` ~ )
 - 1일 1알고리즘 & 커밋 (`20.07.31` ~ )
 - Typescript, Node.js, React, Express에 관심을 갖고 있습니다
-- [전환오 개발 블로그](https://onwah.tistory.com/)
+- [개발 블로그](https://onwah.tistory.com/)
