@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 광운대학교 미디어영상학부 / 컴퓨터소프트웨어학부 전공
-- 42Seoul에서 공부 중 (`2020.02` ~ )
+<!-- - 광운대학교 미디어영상학부 / 컴퓨터소프트웨어학부 전공
+ - 42Seoul에서 공부 중 (`2020.02` ~ )
 - 1일 1알고리즘! (`20.07.31` ~ )
 - Typescript, Node.js, React, Express에 관심을 갖고 있습니다
 - [개발 블로그](https://onwah.tistory.com/)
+-->
