@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 광운대학교 미디어영상학부 / 컴퓨터소프트웨어학부 전공
 
 - [개발 블로그](https://velog.io/@fan)
+- [포트폴리오](https://humorous-octagon-753.notion.site/FE-dbf955d8644340e6ad0f03c0f34a75b0)
 
