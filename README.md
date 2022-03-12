@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-광운대학교 미디어영상학부 / 컴퓨터소프트웨어학부 전공
-
-- [개발 블로그](https://velog.io/@fan)
